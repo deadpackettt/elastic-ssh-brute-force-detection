@@ -147,15 +147,15 @@ Potential risks:
 
 ## Elastic Security Alerts
 
-<img width="100%" src="screenshots/alerts.png">
+<img width="100%" src="screenshots/alerts-table.png">
 
 ## Elastic Discover Authentication Events
 
-<img width="100%" src="screenshots/discover-events.png">
+<img width="100%" src="screenshots/discover-auth-events.png">
 
 ## Linux auth.log Investigation
 
-<img width="100%" src="screenshots/auth-log.png">
+<img width="100%" src="screenshots/linux-auth-log.png">
 
 ## Hydra Attack Simulation
 
